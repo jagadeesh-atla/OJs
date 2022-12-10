@@ -2,7 +2,7 @@
 [Tt]humbs.db
 *.DS_Store
 
-# Mine
+# I specify
 *.exe
 .cph/
 
