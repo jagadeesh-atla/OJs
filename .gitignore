@@ -5,6 +5,7 @@
 # I specify
 *.exe
 .cph/
+.vscode/
 
 # Visual Studio files
 *.[Oo]bj
