@@ -4,6 +4,19 @@ using namespace std;
 
 int main()
 {
+    /*
+    Optimal Solution
+    
+    // Input string
+    string input;
+    cin >> input;
+    
+    // printing last but one. A loophole in question.
+    
+    // Output string
+    cout << input[input.size() - 2];
+    */
+    
     // Taking input as string
     string input_str;
     cin >> input_str;
